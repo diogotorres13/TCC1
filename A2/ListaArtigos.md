@@ -1,31 +1,76 @@
-Lista de Artigos
+# Lista de 15 Artigos
 
-Xie, T., et al. “An empirical evaluation of GitHub Copilot's code suggestions,” in Proceedings of the 44th International Conference on Software Engineering (ICSE ’22), ACM, 2022. doi: 10.1145/3524842.3528470
+1. Xie, T., et al.  
+   *“An empirical evaluation of GitHub Copilot's code suggestions,”*  
+   In **Proceedings of the 44th International Conference on Software Engineering (ICSE ’22)**, ACM, 2022.  
+   doi: [10.1145/3524842.3528470](https://dl.acm.org/doi/10.1145/3524842.3528470)  
 
-He, X., et al. “To Type or Not to Type? A Systematic Comparison of the Software Quality of JavaScript and TypeScript Applications on GitHub,” in arXiv preprint arXiv:2203.11115, 2022. Available: https://arxiv.org/pdf/2203.11115.pdf
+2. He, X., et al.  
+   *“To Type or Not to Type? A Systematic Comparison of the Software Quality of JavaScript and TypeScript Applications on GitHub,”*  
+   In **arXiv preprint arXiv:2203.11115**, 2022.  
+   Available: [https://arxiv.org/pdf/2203.11115.pdf](https://arxiv.org/pdf/2203.11115.pdf)  
 
-Gousios, G., et al. “Comments on Comments: Where Code Review and Documentation Meet,” in arXiv preprint arXiv:2204.00107, 2022. Available: https://arxiv.org/abs/2204.00107
+3. Gousios, G., et al.  
+   *“Comments on Comments: Where Code Review and Documentation Meet,”*  
+   In **arXiv preprint arXiv:2204.00107**, 2022.  
+   Available: [https://arxiv.org/abs/2204.00107](https://arxiv.org/abs/2204.00107)  
 
-Zhu, Y., et al. “Code Search based on Context-aware Code Translation,” in arXiv preprint arXiv:2202.08029, 2022. Available: https://arxiv.org/abs/2202.08029
+4. Zhu, Y., et al.  
+   *“Code Search based on Context-aware Code Translation,”*  
+   In **arXiv preprint arXiv:2202.08029**, 2022.  
+   Available: [https://arxiv.org/abs/2202.08029](https://arxiv.org/abs/2202.08029)  
 
-Muller, S. C., Fritz, T., and Gall, H. “Recognizing Developers' Emotions while Programming,” in arXiv preprint arXiv:2001.09177, 2020. Available: https://arxiv.org/abs/2001.09177
+5. Muller, S. C., Fritz, T., and Gall, H.  
+   *“Recognizing Developers' Emotions while Programming,”*  
+   In **arXiv preprint arXiv:2001.09177**, 2020.  
+   Available: [https://arxiv.org/abs/2001.09177](https://arxiv.org/abs/2001.09177)  
 
-Parnin, C., et al. “SLACC: Simion-based Language Agnostic Code Clones,” in Proceedings of the 42nd International Conference on Software Engineering (ICSE ’20), ACM, 2020. Available: http://chrisparnin.me/pdf/SLACC.pdf
+6. Parnin, C., et al.  
+   *“SLACC: Simion-based Language Agnostic Code Clones,”*  
+   In **Proceedings of the 42nd International Conference on Software Engineering (ICSE ’20)**, ACM, 2020.  
+   Available: [http://chrisparnin.me/pdf/SLACC.pdf](http://chrisparnin.me/pdf/SLACC.pdf)  
 
-Nguyen, S. V., et al. “AutoTransform: Automated Code Transformation to Support Modern Code Review Process,” in arXiv preprint arXiv:2202.05751, 2022. Available: https://www.researchgate.net/publication/358486098_AutoTransform_Automated_Code_Transformation_to_Support_Modern_Code_Review_Process
+7. Nguyen, S. V., et al.  
+   *“AutoTransform: Automated Code Transformation to Support Modern Code Review Process,”*  
+   In **arXiv preprint arXiv:2202.05751**, 2022.  
+   Available: [https://www.researchgate.net/publication/358486098_AutoTransform_Automated_Code_Transformation_to_Support_Modern_Code_Review_Process](https://www.researchgate.net/publication/358486098_AutoTransform_Automated_Code_Transformation_to_Support_Modern_Code_Review_Process)  
 
-Alrajeh, D., et al. “Assessing the Impact of GPT-4 Turbo in Generating Defeaters for Assurance Cases,” in IEEE International Conference on Software Engineering (ICSE ’24), 2024. doi: 10.1109/ICSE.2024.10599567
+8. Alrajeh, D., et al.  
+   *“Assessing the Impact of GPT-4 Turbo in Generating Defeaters for Assurance Cases,”*  
+   In **IEEE International Conference on Software Engineering (ICSE ’24)**, 2024.  
+   doi: [10.1109/ICSE.2024.10599567](https://doi.org/10.1109/ICSE.2024.10599567)  
 
-Zhang, J., et al. “Can ChatGPT Repair Non-Order-Dependent Tests?,” in Proceedings of the 46th International Conference on Software Engineering (ICSE ’24) – Companion Proceedings, ACM, 2024. doi: 10.1145/3643656.3643900
+9. Zhang, J., et al.  
+   *“Can ChatGPT Repair Non-Order-Dependent Tests?,”*  
+   In **Proceedings of the 46th International Conference on Software Engineering (ICSE ’24) – Companion Proceedings**, ACM, 2024.  
+   doi: [10.1145/3643656.3643900](https://doi.org/10.1145/3643656.3643900)  
 
-Chen, L., et al. “Navigating the Complexity of Generative AI Adoption in Software Engineering,” in Proceedings of the 46th International Conference on Software Engineering (ICSE ’24), ACM, 2024. doi: 10.1145/3652154
+10. Chen, L., et al.  
+    *“Navigating the Complexity of Generative AI Adoption in Software Engineering,”*  
+    In **Proceedings of the 46th International Conference on Software Engineering (ICSE ’24)**, ACM, 2024.  
+    doi: [10.1145/3652154](https://doi.org/10.1145/3652154)  
 
-Wang, H., et al. “On Evaluating the Efficiency of Source Code Generated by LLMs,” in IEEE Transactions on Software Engineering, 2024. doi: 10.1109/TSE.2024.10599574
+11. Wang, H., et al.  
+    *“On Evaluating the Efficiency of Source Code Generated by LLMs,”*  
+    In **IEEE Transactions on Software Engineering**, 2024.  
+    doi: [10.1109/TSE.2024.10599574](https://doi.org/10.1109/TSE.2024.10599574)  
 
-Alves, V., et al. “Large Language Model assisted Transformation of Software Variants into a Software Product Line,” in Proceedings of the 2025 International Conference on Software Reuse (ICSR ’25), 2025. Available: https://conf.researchr.org/details/icsr-2025/icsr-2025-papers/1/Large-Language-Model-assisted-Transformation-of-Software-Pro
+12. Alves, V., et al.  
+    *“Large Language Model assisted Transformation of Software Variants into a Software Product Line,”*  
+    In **Proceedings of the 2025 International Conference on Software Reuse (ICSR ’25)**, 2025.  
+    Available: [https://conf.researchr.org/details/icsr-2025/icsr-2025-papers/1/Large-Language-Model-assisted-Transformation-of-Software-Pro](https://conf.researchr.org/details/icsr-2025/icsr-2025-papers/1/Large-Language-Model-assisted-Transformation-of-Software-Pro)  
 
-Nguyen, S. V., et al. “Automated Refactoring of Non-Idiomatic Python Code: A Differentiated Replication with LLMs,” in arXiv preprint arXiv:2501.17024, 2025. Available: https://arxiv.org/pdf/2501.17024
+13. Nguyen, S. V., et al.  
+    *“Automated Refactoring of Non-Idiomatic Python Code: A Differentiated Replication with LLMs,”*  
+    In **arXiv preprint arXiv:2501.17024**, 2025.  
+    Available: [https://arxiv.org/pdf/2501.17024](https://arxiv.org/pdf/2501.17024)  
 
-Djajadi, R., et al. “Using Large Language Models to Generate Concise and Understandable Test Case Summaries,” in Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC ’25), 2025. Available: https://azaidman.github.io/publications/djajadiICPC2025.pdf
+14. Djajadi, R., et al.  
+    *“Using Large Language Models to Generate Concise and Understandable Test Case Summaries,”*  
+    In **Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC ’25)**, 2025.  
+    Available: [https://azaidman.github.io/publications/djajadiICPC2025.pdf](https://azaidman.github.io/publications/djajadiICPC2025.pdf)  
 
-Li, Y., et al. “Leveraging Multi-task Learning to Improve the Detection of SATD and Vulnerability,” in arXiv preprint arXiv:2501.15934, 2025. doi: 10.48550/arXiv.2501.15934
+15. Li, Y., et al.  
+    *“Leveraging Multi-task Learning to Improve the Detection of SATD and Vulnerability,”*  
+    In **arXiv preprint arXiv:2501.15934**, 2025.  
+    doi: [10.48550/arXiv.2501.15934](https://doi.org/10.48550/arXiv.2501.15934)  
